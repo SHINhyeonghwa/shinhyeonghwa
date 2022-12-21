@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 😄 Age:30 / Male
+- 🌱 I’m currently learning WEB Languages to be a Creative Web Publisher
+- 💬 Contact me : 010-8834-2130
+
 <!--
 **SHINhyeonghwa/shinhyeonghwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
